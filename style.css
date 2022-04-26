@@ -1,0 +1,31 @@
+#resim{
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+#resim img{
+   width: 370px;
+}
+body{
+    background-color: tomato;
+}
+h4{
+    background-color: chocolate;
+    border: solid;
+    border-radius: 15px;
+    width: 350px;
+}
+#tarif{
+    width: 700px;
+    height: 450px;
+    margin-left: 380px;
+    background-color: coral;
+}
+#detay a{
+text-decoration: underline;
+background-color:burlywood;
+border-radius: 3px;
+}
+#header{
+    width: 1050px;
+}
